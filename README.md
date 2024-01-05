@@ -9,7 +9,7 @@ Welcome to the Quiz Application project! This Spring Boot web application allows
 ## Features
 
 #### User Authentication:
-Secure user authentication to ensure that only authorized users can create, delete, and attend quizzes.
+1. Secure user authentication to ensure that only authorized users can create, delete, and attend quizzes.
 
 #### Quiz Management:
 1. Create quizzes with custom questions and answers.
@@ -32,8 +32,8 @@ Secure user authentication to ensure that only authorized users can create, dele
 
 
 #### Build and run the application:
-+ ./mvnw spring-boot:run
-  The application will be accessible at http://localhost:8080.
+1. ./mvnw spring-boot:run.
+2. The application will be accessible at http://localhost:8080.
 
 ### Acknowledgments
 Special thanks to the Spring Boot and MySQL communities for their excellent documentation and support.
